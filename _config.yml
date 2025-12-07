@@ -28,9 +28,9 @@ author:
   pronouns         : "she/her"  
   bio              : 
   location         : "Beijing, China"
-  employer         : "camellia00825@gmail.com"
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "camellia00825@gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/xintong-li-camellia" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xintong Li's Academic Portfolio"
+title                    : "Xintong Li (Camellia)"
 title_separator          : "-"
-name                     : &name "Xintong Li"
-description              : &description "Academic portfolio of Xintong Li, a Statistics undergraduate at Renmin University of China, specializing in Causal Inference, Spatio-Temporal Data, and Human-AI Collaboration. Passionate about bridging theory and practice in AI-driven systems"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://Xintong_Li.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : "Xintong Li"
+description              : "Hi! I'm Xintong Li, a Statistics undergraduate at Renmin University of China, specializing in Causal Inference, Spatio-Temporal Data, and Human-AI Collaboration."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://camelliaxt.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/Xintong_Li.github.io"
+repository               : "CAMELLIAxt/camelliaxt.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ repository               : "academicpages/Xintong_Li.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xintong Li"
   pronouns         : "she/her"  
   bio              : 
   location         : "Beijing, China"
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/CAMELLIAxt"
+  github           : "CAMELLIAxt"  # https://github.com/CAMELLIAxt
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/xintong-li-camellia" # Username
+  linkedin         : "xintong-li-camellia" # Username   https://www.linkedin.com/in/xintong-li-camellia
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

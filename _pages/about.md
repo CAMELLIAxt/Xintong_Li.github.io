@@ -18,27 +18,43 @@ My research interests mainly lie in the intersection of **Human–AI Collaborati
 
 I am actively seeking <span style="color:#AE0B2A;">Ph.D. or Master's opportunities for Fall 2026</span>! 🚀 and am eager to connect with fellow researchers and potential advisors!
 
+
+# 🗞️ News
+
+- **2025.11** – Our paper <a href="https://arxiv.org/abs/2511.20558" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">ST-HCM</a> was accepted to **AAAI-26**!  
+  🚀 See you in Singapore 🇸🇬!
+
+- **2024.12** – I received the **AAAI-25 Student Scholarship** ($2000).  
+  Feeling grateful and excited to attend AAAI again 🥰!
+
+- **2024.12** – Our paper <a href="https://ojs.aaai.org/index.php/AAAI/article/view/35036" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">FAP-CD</a> was accepted to **AAAI-25**.  
+  Looking forward to sharing our work with the community 🇺🇸!
+
+- **2023.09** – I joined **LUMOS AI Lab** at the <a href="http://ai.ruc.edu.cn/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">GSAI</a> , <a href="https://www.ruc.edu.cn/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Renmin University of China</a>, advised by Prof. <a href="https://xiaozhoucam.github.io/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Xiao Zhou</a>.  
+  This marked the beginning of my research journey 😆.
+
+
 # 📚 Publications
 
 <span style="font-size:smaller;">\* denotes co-first authorship.</span>
 
-*   **Spatio-Temporal Hierarchical Causal Models** [<a href="" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>] [<a href="" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>] 
+*   **Spatio-Temporal Hierarchical Causal Models** [<a href="https://arxiv.org/abs/2511.20558" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>] [<a href="https://github.com/CAMELLIAxt/ST-HCMs" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>] 
     **<u>Xintong Li</u>**, Haoran Zhang, and Xiao Zhou.  
     *In Proceedings of the AAAI Conference on Artificial Intelligence **(AAAI 2026)**.*
 
     <span style="font-size:smaller;">**TL;DR:** We introduce Spatio-Temporal Hierarchical Causal Models (ST-HCMs) to perform causal inference from spatio-temporal data with unobserved, time-invariant confounders, a setting where traditional methods fail.</span>
 
-*   **AtC: Aggregate-then-Calibrate for Human-centered Assessment** [<a href="" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>] [<a href="" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>]  
+*   **AtC: Aggregate-then-Calibrate for Human-centered Assessment** [<a href="https://openreview.net/pdf?id=XNbVoi9mfr" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>](https://openreview.net/pdf?id=XNbVoi9mfr)  [<a href="https://anonymous.4open.science/r/12500\_AtC\_supp-4F50" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>]  
     Zejun Xie\*, **<u>Xintong Li</u>**\*, Guang Wang, and Desheng Zhang.  
     *Submitted to **ICLR 2026**. (under review, avg score: 6.5 (Top 3.8\% of all submissions))*
-    
-    ▶ **TL;DR:** AtC aggregates human comparisons into a consensus and isotonic-calibrates any model’s scores via the consensus, delivering decision-ready assessments with guarantees on efficiency, robustness, and optimality.
 
-*   **FAP-CD: Fairness-Driven Age-Friendly Community Planning via Conditional Diffusion Generation** [<a href="" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>] [<a href="" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>] [<a href="" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Poster</a>]  
+    <span style="font-size:smaller;">**TL;DR:** AtC aggregates human comparisons into a consensus and isotonic-calibrates any model’s scores via the consensus, delivering decision-ready assessments with guarantees on efficiency, robustness, and optimality.</span>
+
+*   **FAP-CD: Fairness-Driven Age-Friendly Community Planning via Conditional Diffusion Generation** [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/35036" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>] [<a href="https://github.com/jinlin2021/FAP_CD" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>] [<a href="https://drive.google.com/file/d/1iUbyskqRom4EU77O5kA\_vHO2M90ZzaOD/view?usp=sharing" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Poster</a>]  
     Jinlin Li, **<u>Xintong Li</u>**, and Xiao Zhou.  
     *In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2025).*
 
-    ▶ **TL;DR:** FAP-CD utilizes a conditioned graph denoising diffusion probabilistic model to learn the conditional joint probability distribution of aging facilities and their spatial relationships, and generates optimized spatial distributions of facilities.
+    <span style="font-size:smaller;">**TL;DR:** FAP-CD utilizes a conditioned graph denoising diffusion probabilistic model to learn the conditional joint probability distribution of aging facilities and their spatial relationships, and generates optimized spatial distributions of facilities.</span>
 
 
 

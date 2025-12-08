@@ -42,7 +42,7 @@ I am actively seeking **<u>Ph.D. or Master's opportunities for Fall 2026! 🚀</
 
 *   **AtC: Aggregate-then-Calibrate for Human-centered Assessment** [<a href="https://openreview.net/pdf?id=XNbVoi9mfr" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>]  [<a href="https://anonymous.4open.science/r/12500\_AtC\_supp-4F50" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>]  
     Zejun Xie\*, **<u>Xintong Li</u>**\*, Guang Wang, and Desheng Zhang.  
-    *Submitted to **ICLR 2026**. (under review, avg score: 6.5 (Top 3.8\% of all submissions))*
+    *Submitted to **ICLR 2026**. (under review, avg score: 6.5 (Top 3.8% of all submissions))*
 
     <span style="font-size:smaller;">**TL;DR:** AtC aggregates human comparisons into a consensus and isotonic-calibrates any model’s scores via the consensus, delivering decision-ready assessments with guarantees on efficiency, robustness, and optimality.</span>
 

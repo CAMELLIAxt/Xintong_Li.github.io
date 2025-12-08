@@ -18,7 +18,8 @@ main:
   #   url: /publications/
     
   - title: "CV"
-    url: /cv/
+    url: "https://drive.google.com/file/d/1vZS1u8H4mSJp2AyuK8RLMF11yeoZp2J9/view?usp=drive_link"
+    external: true
   
   # - title: "Education"
   #   url: /education/

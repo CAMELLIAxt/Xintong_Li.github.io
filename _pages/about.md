@@ -34,7 +34,7 @@ I am actively seeking **<u>Ph.D. or Master's opportunities for Fall 2026! 🚀</
 
 <span style="font-size:smaller;">\* denotes co-first authorship.</span>
 
-*   **Spatio-Temporal Hierarchical Causal Models** [<a href="https://arxiv.org/abs/2511.20558" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>] [<a href="https://github.com/CAMELLIAxt/ST-HCMs" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>] 
+*   **Spatio-Temporal Hierarchical Causal Models** [<a href="https://arxiv.org/abs/2511.20558" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>] [<a href="https://github.com/CAMELLIAxt/ST-HCMs" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>]  
     **<u>Xintong Li</u>**, Haoran Zhang, and Xiao Zhou.  
     *In Proceedings of the AAAI Conference on Artificial Intelligence **(AAAI 2026)**.*
 

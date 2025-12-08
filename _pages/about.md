@@ -16,7 +16,7 @@ Additionally, I collaborate with Prof. <a href="https://sites.google.com/view/yi
 
 My research interests mainly lie in the intersection of **Human–AI Collaboration**, **Causal Inference and Discovery**, **Spatio-temporal Modeling**, and **AI for Social Good**. I am excited about building theoretically grounded frameworks that work robustly in complex, real-world environments.
 
-I am actively seeking <span style="color:#AE0B2A;">Ph.D. or Master's opportunities for Fall 2026</span>! 🚀 and am eager to connect with fellow researchers and potential advisors!
+I am actively seeking **<u>Ph.D. or Master's opportunities for Fall 2026! 🚀</u>** and am eager to connect with fellow researchers and potential advisors!
 
 
 # 🗞️ News

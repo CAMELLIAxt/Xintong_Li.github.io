@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xintong Li (Camellia)"
+title                    : "Xintong Li"
 title_separator          : "-"
 name                     : "Xintong Li"
 description              : "Hi! I'm Xintong Li, a Statistics undergraduate at Renmin University of China, specializing in Causal Inference, Spatio-Temporal Data, and Human-AI Collaboration."   # Update this with a general description of your site, this is the default if not overridden by a page

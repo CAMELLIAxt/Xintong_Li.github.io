@@ -48,7 +48,7 @@ I am actively seeking **<u>Ph.D. or Master's opportunities for Fall 2026! 🚀</
 
 *   **FAP-CD: Fairness-Driven Age-Friendly Community Planning via Conditional Diffusion Generation** [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/35036" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>] [<a href="https://github.com/jinlin2021/FAP_CD" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>] [<a href="https://drive.google.com/file/d/1iUbyskqRom4EU77O5kA\_vHO2M90ZzaOD/view?usp=sharing" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Poster</a>]  
     Jinlin Li, **<u>Xintong Li</u>**, and Xiao Zhou.  
-    *In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2025).*
+    *In Proceedings of the AAAI Conference on Artificial Intelligence **(AAAI 2025)**.*
 
     <span style="font-size:smaller;">**TL;DR:** FAP-CD utilizes a conditioned graph denoising diffusion probabilistic model to learn the conditional joint probability distribution of aging facilities and their spatial relationships, and generates optimized spatial distributions of facilities.</span>
 

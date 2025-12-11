@@ -40,13 +40,13 @@ I am actively seeking **<u>Ph.D. or Master's opportunities for Fall 2026! 🚀</
 
     <span style="font-size:smaller;">**TL;DR:** We introduce Spatio-Temporal Hierarchical Causal Models (ST-HCMs) to perform causal inference from spatio-temporal data with unobserved, time-invariant confounders, a setting where traditional methods fail.</span>
 
-*   **AtC: Aggregate-then-Calibrate for Human-centered Assessment** [<a href="https://openreview.net/pdf?id=XNbVoi9mfr" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>]  [<a href="https://anonymous.4open.science/r/12500\_AtC\_supp-4F50" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>]  
+*   **AtC: Aggregate-then-Calibrate for Human-centered Assessment** [<a href="https://openreview.net/pdf?id=XNbVoi9mfr" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>]  [<a href="https://anonymous.4open.science/r/12500_AtC_supp-4F50" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>]  
     Zejun Xie\*, **<u>Xintong Li</u>**\*, Guang Wang, and Desheng Zhang.  
     *Submitted to **ICLR 2026**. (under review, avg score: 6.5 (Top 3.8% of all submissions))*
 
     <span style="font-size:smaller;">**TL;DR:** AtC aggregates human comparisons into a consensus and isotonic-calibrates any model’s scores via the consensus, delivering decision-ready assessments with guarantees on efficiency, robustness, and optimality.</span>
 
-*   **FAP-CD: Fairness-Driven Age-Friendly Community Planning via Conditional Diffusion Generation** [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/35036" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>] [<a href="https://github.com/jinlin2021/FAP_CD" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>] [<a href="https://drive.google.com/file/d/1iUbyskqRom4EU77O5kA\_vHO2M90ZzaOD/view?usp=sharing" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Poster</a>]  
+*   **FAP-CD: Fairness-Driven Age-Friendly Community Planning via Conditional Diffusion Generation** [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/35036" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>] [<a href="https://github.com/jinlin2021/FAP_CD" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>] [<a href="https://drive.google.com/file/d/1iUbyskqRom4EU77O5kA_vHO2M90ZzaOD/view?usp=sharing" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Poster</a>]  
     Jinlin Li, **<u>Xintong Li</u>**, and Xiao Zhou.  
     *In Proceedings of the AAAI Conference on Artificial Intelligence **(AAAI 2025)**.*
 
